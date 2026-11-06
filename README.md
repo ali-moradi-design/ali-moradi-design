@@ -71,5 +71,5 @@ accessibility (WCAG) and right-to-left support.
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-moradi-design&theme=tokyonight" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ali-moradi-design&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=ali-moradi-design&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub streak">
 </p>
